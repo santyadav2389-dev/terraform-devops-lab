@@ -1,3 +1,5 @@
+
 provider "azurerm" {
+shbvvha
 features {}
 }
